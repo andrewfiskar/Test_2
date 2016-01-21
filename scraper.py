@@ -4,8 +4,10 @@
 # import scraperwiki
 # import lxml.html
 #
-myvar = 'He said "hello".'
+myvar = 'He said "fracking".'
+myage 25
 print myvar
+printmyage
 
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
