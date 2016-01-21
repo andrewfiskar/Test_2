@@ -10,12 +10,14 @@ myage = 25
 mylist = ['Baroness Bottomley','Lord Maude','Lord Patten']
 listlength = len(mylist)
 mynumlist = [1, 15, 25, 35]
+numlength = len(myage)
 print myvar
 print stringlength
 print myage
 print mylist
 print listlength
 print mynumlist
+print numlength
 
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
