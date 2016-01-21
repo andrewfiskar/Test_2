@@ -5,7 +5,7 @@
 # import lxml.html
 #
 myvar = 'He said "fracking".'
-myage 25
+myage = 25
 print myvar
 print myage
 
