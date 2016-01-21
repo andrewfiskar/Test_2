@@ -7,10 +7,12 @@
 myvar = 'He said "fracking".'
 myage = 25
 mylist = ['Baroness Bottomley','Lord Maude','Lord Patten']
+listlength = len(mylist)
 mynumlist = [1, 15, 25, 35]
 print myvar
 print myage
 print mylist
+print listlength
 print mynumlist
 
 # # Read in a page
