@@ -11,6 +11,7 @@ mynumlist = [1, 15, 25, 35]
 print myvar
 print myage
 print mylist
+print mynumlist
 
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
