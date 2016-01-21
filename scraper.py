@@ -5,7 +5,7 @@
 # import lxml.html
 #
 myvar = 'He said "fracking".'
-stringlength = len(mylist)
+stringlength = len(myvar)
 myage = 25
 mylist = ['Baroness Bottomley','Lord Maude','Lord Patten']
 listlength = len(mylist)
