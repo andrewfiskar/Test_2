@@ -6,8 +6,10 @@
 #
 myvar = 'He said "fracking".'
 myage = 25
+mylist = ['Baroness Bottomley','Lord Maude','Lord Patten']
 print myvar
 print myage
+print mylist
 
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
