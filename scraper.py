@@ -7,7 +7,7 @@
 myvar = 'He said "fracking".'
 myage 25
 print myvar
-printmyage
+print myage
 
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
