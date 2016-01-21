@@ -7,6 +7,7 @@
 myvar = 'He said "fracking".'
 myage = 25
 mylist = ['Baroness Bottomley','Lord Maude','Lord Patten']
+mynumlist = [1, 15, 25, 35]
 print myvar
 print myage
 print mylist
